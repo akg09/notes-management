@@ -1,0 +1,53 @@
+.App-header {
+  background-color: rgb(248, 248, 248);
+  height: 50px;
+  color: #aaa;
+  border-bottom: 1px solid rgb(231, 231, 231);
+}
+.App-title {
+  font-size: 1.5em;
+}
+.nmt {
+  margin-top : 0;
+}
+.mt {
+  margin-top : 5px;
+}
+.mr {
+  margin-right : 5px;
+}
+.pt-md {
+  padding-top : 13px;
+}
+.mt-lg {
+  margin-top : 15px;
+}
+.pt-lg {
+  padding-top : 15px;
+}
+.pl-lg {
+  padding-left : 15px;
+}
+.pull-right {
+  float : right;
+}
+.border-left {
+  border-left: 1px solid #ccc;
+}
+.npr {
+  padding-right : 0;
+}
+.np {
+  padding : 0;
+}
+.unStyledList {
+  list-style: none;
+}
+.list-box {
+    border-bottom: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 2px 6px;
+}
+.todoTitle {
+  font-size : 20px;
+}
